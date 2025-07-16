@@ -30,6 +30,6 @@
   // Tareas que se ejecutarán automáticamente al iniciar el Codespace.
   // Esto es similar a la sección 'command' de Gitpod.
   "remoteUser": "node", // Ejecuta los comandos como el usuario 'node'
-  "workspaceFolder": "/workspaces/nombre-del-nuevo-repo", // Ruta base del espacio de trabajo
+  "workspaceFolder": "/workspaces/habitazona", // Ruta base del espacio de trabajo actualizada
   "onCreateCommand": "cd server && npm run dev" // Inicia el servidor
 }
