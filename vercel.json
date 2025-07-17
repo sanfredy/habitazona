@@ -1,7 +1,7 @@
 {
   "functions": {
     "server/index.js": {
-      "runtime": "node-18.x" // ¡CORREGIDO! Cambiado de "nodejs18.x" a "node-18.x"
+      "runtime": "node-20.x" // ¡ACTUALIZADO! Cambiado de "node-18.x" a "node-20.x"
     }
   },
   "routes": [
